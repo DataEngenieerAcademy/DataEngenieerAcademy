@@ -3,3 +3,4 @@ Welcome to the git course!.
 Please add your name to this document:
 
 Mariano Kurke
+Pedro Picapiedra
